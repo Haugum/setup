@@ -1,0 +1,6 @@
+iterm2
+firefox
+visual-studio-code
+goland
+spotify
+
