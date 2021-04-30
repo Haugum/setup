@@ -3,4 +3,4 @@ firefox
 visual-studio-code
 goland
 spotify
-
+cask
